@@ -2,8 +2,8 @@
 Example lib-forRoot
 
 There're two directories:
--app-library-example (the library)
--app-library-use  (the app)
+- app-library-example (the library)
+- app-library-use  (the app)
 
 It's only a example of how create a library that use forRoot to get the configuration from an enviroment.ts file
 
