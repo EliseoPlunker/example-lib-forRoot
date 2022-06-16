@@ -9,11 +9,13 @@ It's only a example of how create a library that use forRoot to get the configur
 
 To generate the library in local:
 
+[code]
 ng build app-lib --prod
 
 cd dist
 cd app-lib
 npm link
+[/code]
 
 To use in the another project
 
